@@ -17,4 +17,4 @@ java
 
 ## steps to run the project:
 
-java -jar target/geektrust.jar <<inputfileLocation>>
+java -jar target/geektrust.jar <inputfileLocation>
